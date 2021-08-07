@@ -33,3 +33,16 @@ git status
 
 run git add
 
+git add -> adds only all the lines of your current code to staging
+
+git commit -> you completed a feature fully
+
+when you run git commit it opens a vim editor.
+insert mode is enabled by clciking i in keyboard
+after writing commit message "sirst commit completed"
+
+click esc
+
+then :wq (for write quit)
+
+
